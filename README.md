@@ -12,5 +12,6 @@ Red: Tamsui-Xinyi Line
 Green: Songshan-Xindian Line
 Yellow: Zhonghe-Xinlu Line
 Blue: Bannan Line
+Mixed color: The intersection of different lines
 
 ![alt tag](https://github.com/ynyeh0221/Taipei-MRT-Statistics-Data-Visualization/blob/gh-pages/Number_of_passengers_lines_compare.png)
