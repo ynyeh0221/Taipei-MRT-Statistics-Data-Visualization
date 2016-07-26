@@ -3,6 +3,8 @@ Visualization with D3.js and Google Map API
 
 The size of each circle is proportional to the number of passengers.
 
+The white numbers are the total number of pasengers per day of the station.
+
 ![alt tag](https://github.com/ynyeh0221/Taipei-MRT-Statistics-Data-Visualization/blob/gh-pages/Number_of_passengers.png)
 
 Compare with different lines:
