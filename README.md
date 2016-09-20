@@ -1,4 +1,5 @@
-# Taipei-MRT-Statistics-Data-Visualization
+# Taipei-MRT-Traffic-Data-Visualization
+
 Visualization with D3.js and Google Map API
 
 The size of each circle is proportional to the number of passengers.
